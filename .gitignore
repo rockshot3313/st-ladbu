@@ -28,3 +28,15 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+
+# Node version files
+.nvmrc
+.node-version
+
+# IDE configs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

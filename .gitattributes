@@ -8,3 +8,8 @@
 
 CHANGELOG.md export-ignore
 README.md export-ignore
+/.github export-ignore
+/tests export-ignore
+/storage export-ignore
+/node_modules export-ignore
+/vendor export-ignore
